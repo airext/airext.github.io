@@ -1,0 +1,23 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [ "GL9F4DL9W9.com.airext.github.bluetooth.Debug" ],
+                "components": [
+                    {
+                        "/": "/bluetooth/*"
+                    }
+                ]
+            },
+            {
+                "appIDs": [ "QN3KD4DYZS.com.ryah.patch.ble.Example" ],
+                "components": [
+                    {
+                        "/": "/patch/*",
+                        "comment": "Matches URLs for the PatchBLE test application."
+                    }
+                ]
+            }
+        ]
+    }
+}
